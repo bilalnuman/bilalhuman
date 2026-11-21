@@ -44,5 +44,5 @@ I enjoy solving real-world engineering problems, developing reusable components,
 
 ### 🤝 Let's Connect
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn:https://www.linkedin.com/in/muhammad-bilal-eng/
 - GitHub: https://github.com/bilalhuman
