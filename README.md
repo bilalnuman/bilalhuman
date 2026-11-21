@@ -1,48 +1,95 @@
+# Muhammad Bilal
+### Senior Full Stack Software Engineer | React.js | Next.js | Node.js
 
-# Hi, I'm Bilal 👋
+Building scalable, maintainable, and high-performance web applications.
 
-### Full Stack Software Engineer | React.js | Next.js | Node.js
+I'm a Full Stack Software Engineer with **5+ years of professional experience** in designing, developing, and maintaining modern web applications.
 
-I'm a Full Stack Software Engineer with 5+ years of experience building modern, scalable, and user-friendly web applications.
+My experience spans frontend engineering, backend development, REST API integration, application architecture, and production troubleshooting. I focus on writing clean, maintainable code and building reliable solutions that solve real-world business problems.
 
-I enjoy solving real-world engineering problems, developing reusable components, building REST APIs, and improving application performance.
+I enjoy working across the full software development lifecycle, from understanding requirements and designing solutions to development, deployment, and continuous improvement.
 
-### 🛠️ Tech Stack
+---
 
-**Frontend**
+## Technical Expertise
+
+**Frontend Engineering**
 - React.js
 - Next.js
-- JavaScript / TypeScript
+- JavaScript (ES6+)
+- TypeScript
 - Tailwind CSS
+- Responsive UI Development
+- Reusable Component Architecture
 
-**Backend**
+**Backend Engineering**
 - Node.js
-- REST APIs
+- RESTful API Development
 - Python / FastAPI
+- API Integration
+- Authentication & Authorization
+- Backend Error Handling
 
-**State Management & Tools**
+**State Management & Data Fetching**
 - Redux
 - Zustand
 - React Query
+- React Hook Form
+
+**Engineering & DevOps**
 - Git & GitHub
+- Linux / VPS
+- Nginx
+- CI/CD with GitHub Actions
+- Application Deployment
+- Production Debugging
 
-### 🚀 What I Do
+---
 
-- Build scalable frontend applications.
-- Develop and integrate REST APIs.
-- Create reusable React components.
-- Optimize application performance.
-- Debug and maintain production applications.
-- Work with modern deployment workflows.
+## Engineering Focus
 
-### 📌 Currently Interested In
+- Designing maintainable and scalable web applications.
+- Building reusable frontend components and modular architectures.
+- Developing and integrating reliable REST APIs.
+- Improving application performance and user experience.
+- Implementing secure authentication and authorization workflows.
+- Troubleshooting production issues and optimizing existing systems.
+- Collaborating with teams to deliver production-ready software.
 
-- Advanced React and Next.js
-- Backend architecture
-- Application performance and security
-- Scalable software development
+---
 
-### 🤝 Let's Connect
+## Technology Stack
 
-- LinkedIn:https://www.linkedin.com/in/muhammad-bilal-eng/
-- GitHub: https://github.com/bilalhuman
+| Category | Technologies |
+|---|---|
+| Frontend | React.js, Next.js, TypeScript |
+| Styling | Tailwind CSS |
+| Backend | Node.js, Python, FastAPI |
+| State Management | Redux, Zustand |
+| Data Fetching | React Query |
+| Forms | React Hook Form |
+| DevOps | Linux, Nginx, GitHub Actions |
+| Version Control | Git, GitHub |
+
+---
+
+## Current Professional Interests
+
+- Scalable Full Stack Application Architecture
+- Advanced React & Next.js Development
+- Backend Performance & API Security
+- Software Engineering Best Practices
+- CI/CD and Deployment Optimization
+
+---
+
+## Let's Connect
+
+I'm always open to connecting with software engineers, engineering teams, and professionals working on interesting technology challenges.
+
+- **LinkedIn:** [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-eng/)
+- **GitHub:** [bilalhuman](https://github.com/bilalhuman)
+
+---
+
+*Building better software through clean code, practical engineering, and continuous learning.*
